@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFilter", "TestFilter\TestFilter.csproj", "{AC2E01A0-A1A5-42BA-A9E4-D5264F886748}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://vsyas1600.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TestFilter\\TestFilter.csproj
+		SccProjectName1 = TestFilter
+		SccLocalPath1 = TestFilter
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC2E01A0-A1A5-42BA-A9E4-D5264F886748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC2E01A0-A1A5-42BA-A9E4-D5264F886748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC2E01A0-A1A5-42BA-A9E4-D5264F886748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC2E01A0-A1A5-42BA-A9E4-D5264F886748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
