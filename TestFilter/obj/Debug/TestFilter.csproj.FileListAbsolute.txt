@@ -1,0 +1,14 @@
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\obj\Debug\TestFilter.csproj.CoreCompileInputs.cache
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\obj\Debug\TestFilter.exe
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\obj\Debug\TestFilter.pdb
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\bin\Debug\TestFilter.exe.config
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\bin\Debug\TestFilter.exe.manifest
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\bin\Debug\TestFilter.application
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\bin\Debug\TestFilter.exe
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\bin\Debug\TestFilter.pdb
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.dll
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\bin\Debug\Cyotek.Collections.Generic.CircularBuffer.xml
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\obj\Debug\TestFilter.csprojAssemblyReference.cache
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\obj\Debug\TestFilter.exe.manifest
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\obj\Debug\TestFilter.application
+C:\Users\SCOPE\Documents\GitHub\ButterworthFilter\TestFilter\obj\Debug\TestFilter.csproj.CopyComplete
